@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+12%2B+Years+in+the+Microsoft+Ecosystem;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;Fixed-fee+M365+consulting+for+SMBs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+12%2B+Years+in+the+Microsoft+Ecosystem;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;Fixed-fee+M365+consulting+for+SMBs" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -55,10 +55,6 @@ I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=hiaror&theme=dark&ring=0078d4&fire=0078d4&currStreakLabel=0078d4" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiaror&layout=compact&theme=github-dark&title_color=0078d4&text_color=ffffff&icon_color=0078d4&border_color=0078d4&langs_count=6&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
