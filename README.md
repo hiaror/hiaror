@@ -55,7 +55,7 @@ Deeply embedded in the Microsoft 365 ecosystem for 12+ years. I spend my time au
   <tr>
     <td align="center">
       <img src="badges/microsoft-certified-expert-badge.svg" width="80" /><br/>
-      <sub><b>Microsoft Certified</b></sub><br/>
+      <sub><b>M365 Certified</b></sub><br/>
       <sub>Administrator Expert</sub>
     </td>
     <td align="center">
