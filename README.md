@@ -31,16 +31,22 @@ I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Automation and Tooling
 
 <p>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graph_API-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-0078d4?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graph_API-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_CLI-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+### ☁️ Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_365-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entra_ID-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange_Online-0078d4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intune-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Defender-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
@@ -64,6 +70,6 @@ I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 ---
 
 <div align="center">
-  <i>Available for fixed-fee M365 project work. No retainers. No fluff.</i>
+  <i>Fixed-fee M365 expertise. Scoped, priced, delivered.</i>
 </div>
 
