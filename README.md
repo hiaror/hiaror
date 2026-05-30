@@ -6,17 +6,14 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/himanshusac">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://aroramsp.com">
     <img src="https://img.shields.io/badge/AroraMSP.com-0078d4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:himanshu@aroramsp.com">
     <img src="https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hiaror&label=Profile+views&color=0078d4&style=for-the-badge" />
 </div>
 
