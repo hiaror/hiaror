@@ -66,3 +66,4 @@ I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 <div align="center">
   <i>Available for fixed-fee M365 project work. No retainers. No fluff.</i>
 </div>
+
