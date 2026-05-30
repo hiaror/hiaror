@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/himanshusac">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=&labelColor=0077B5" />
   </a>
   <a href="https://aroramsp.com">
     <img src="https://img.shields.io/badge/AroraMSP.com-0078d4?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -61,5 +61,11 @@ Deeply embedded in the Microsoft 365 ecosystem for 12+ years. I spend my time au
 
 ### 📝 Blog Posts
 
-- [PowerShell Auth Clash: Certificate-Based vs Device Code Authentication in M365 Scripts](https://aroramsp.com/blog/powershell-auth-clash.html)
+- [Microsoft 365 PowerShell Authentication Failures: Three Bugs, One Fix](https://aroramsp.com/blog/powershell-auth-clash)
+- [How I Built a PowerShell Toolkit That Audits Your Entire Microsoft 365 Tenant in Minutes](https://aroramsp.com/blog/m365-audit-toolkit)
+- [Windows LAPS Fleet Audit with Microsoft Graph PowerShell](https://aroramsp.com/blog/laps-fleet-audit-graph)
+- [Fix Windows LAPS Escrow Failure on Hybrid Entra Devices](https://aroramsp.com/blog/laps-hybrid-registration-fix)
+- [Bulk Mailbox Cleanup with Microsoft Graph PowerShell](https://aroramsp.com/blog/graph-mailbox-cleanup)
+- [Sortable Exchange Online Mailbox Size Report PowerShell Script](https://aroramsp.com/blog/exo-mailbox-size-report)
+- [MBR2GPT and Legacy BIOS to UEFI: Upgrade to Windows 11 25H2 Without Reinstall](https://aroramsp.com/blog/windows11-uefi-upgrade)
 
