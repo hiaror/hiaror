@@ -51,15 +51,30 @@ Deeply embedded in the Microsoft 365 ecosystem for 12+ years. I spend my time au
 
 ### 🏅 Certifications
 
-<p align="center">
-  <img src="badges/microsoft-certified-expert-badge.svg" width="80" title="M365 Certified Administrator Expert" />
-  &nbsp;&nbsp;
-  <img src="badges/microsoft-certified-associate-badge.svg" width="80" title="Identity and Access Administrator Associate" />
-  &nbsp;&nbsp;
-  <img src="badges/microsoft-certified-fundamentals-badge.svg" width="80" title="Azure Fundamentals" />
-  &nbsp;&nbsp;
-  <img src="badges/microsoft-certified-expert-badge.svg" width="80" title="MCSE Productivity Solutions Expert" />
-</p>
+<table align="center" border="0" cellpadding="16">
+  <tr>
+    <td align="center">
+      <img src="badges/microsoft-certified-expert-badge.svg" width="80" /><br/>
+      <sub><b>Microsoft Certified</b></sub><br/>
+      <sub>Administrator Expert</sub>
+    </td>
+    <td align="center">
+      <img src="badges/microsoft-certified-associate-badge.svg" width="80" /><br/>
+      <sub><b>Microsoft Certified</b></sub><br/>
+      <sub>Identity &amp; Access Admin</sub>
+    </td>
+    <td align="center">
+      <img src="badges/microsoft-certified-fundamentals-badge.svg" width="80" /><br/>
+      <sub><b>Microsoft Certified</b></sub><br/>
+      <sub>Azure Fundamentals</sub>
+    </td>
+    <td align="center">
+      <img src="badges/microsoft-certified-expert-badge.svg" width="80" /><br/>
+      <sub><b>MCSE</b></sub><br/>
+      <sub>Productivity Solutions Expert</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
