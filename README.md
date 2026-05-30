@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+12%2B+Years+in+the+Microsoft+Ecosystem;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;Fixed-fee+M365+consulting+for+SMBs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+12%2B+Years+in+the+Microsoft+Ecosystem;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;PowerShell+%7C+Graph+API+%7C+Entra+ID+%7C+Exchange+Online" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://aroramsp.com">
-    <img src="https://img.shields.io/badge/AroraMSP.com-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/AroraMSP.com-0078d4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:himanshu@aroramsp.com">
-    <img src="https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078d4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hiaror&label=Profile+views&color=0078d4&style=for-the-badge" />
 </div>
