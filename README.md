@@ -23,12 +23,12 @@
 
 Deeply embedded in the Microsoft 365 ecosystem for 12+ years. I spend my time automating identity, securing tenants, and scripting everything that should not be done by hand.
 
-- ⚙️ PowerShell and Graph API are my primary tools — if it can be scripted, it will be scripted
+- ⚙️ PowerShell and Graph API are my primary tools. If it can be scripted, it will be scripted
 - 🔐 Deep focus on Entra ID, Conditional Access, hybrid identity, and Exchange Online
 - 🛡️ Passionate about tenant security: MFA, LAPS, legacy auth blocking, DMARC enforcement
 - 📱 Intune and endpoint management for zero-touch device lifecycle
 - 📜 M365 Administrator Expert, Identity and Access Administrator, MCSE Productivity Solutions Expert, Azure Fundamentals
-- 🌐 [aroramsp.com](https://aroramsp.com) — [himanshu@aroramsp.com](mailto:himanshu@aroramsp.com)
+- 🌐 Find me at [aroramsp.com](https://aroramsp.com) or email [himanshu@aroramsp.com](mailto:himanshu@aroramsp.com)
 
 ---
 
