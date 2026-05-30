@@ -58,7 +58,7 @@ I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiaror&layout=compact&theme=dark&title_color=0078d4&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiaror&layout=compact&theme=github-dark&title_color=0078d4&text_color=ffffff&icon_color=0078d4&border_color=0078d4&langs_count=6&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
