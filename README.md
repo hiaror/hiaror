@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+9+Years+at+Microsoft;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;Fixed-fee+M365+consulting+for+SMBs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Himanshu+Arora;Microsoft+365+Consultant+%7C+12%2B+Years+in+the+Microsoft+Ecosystem;Entra+ID+%7C+Exchange+Online+%7C+Intune+%7C+Hybrid+Identity;Fixed-fee+M365+consulting+for+SMBs" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,7 +23,7 @@
 
 I am an independent Microsoft 365 consultant based in Kuala Lumpur, Malaysia.
 
-- 🏢 9 years at Microsoft as a Cloud Support Engineer
+- 🏢 12+ years in the Microsoft ecosystem
 - 🔐 Core expertise: Entra ID, Conditional Access, Exchange Online, hybrid identity, Intune, and PowerShell automation
 - 🛠️ Founder of [AroraMSP](https://aroramsp.com) — fixed-fee M365 consulting for SMBs globally
 - 📜 Certifications: M365 Administrator Expert, Identity and Access Administrator, MCSE Productivity Solutions Expert, Azure Fundamentals
