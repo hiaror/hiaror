@@ -2,8 +2,8 @@ name: Update experience years
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # runs on the 1st of every month
-  workflow_dispatch:      # allow manual trigger
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -26,11 +26,12 @@ jobs:
           # Update the About Me bullet
           sed -i "s/- 🏢 [0-9]*+ years in the Microsoft ecosystem/- 🏢 ${YEARS_PLUS} years in the Microsoft ecosystem/" README.md
 
-          # Update the typing SVG line
-          sed -i "s/Microsoft%2B365%2BConsultant%2B%257C%2B[0-9]*%252B%2BYears%2Bin%2Bthe%2BMicrosoft%2BEcosystem/Microsoft+365+Consultant+%7C+${YEARS}%2B+Years+in+the+Microsoft+Ecosystem/" README.md
+          # Update the typing SVG line - matches literal + separators and %7C pipe encoding
+          sed -i "s/Consultant+%7C+[0-9]*%2B+Years/Consultant+%7C+${YEARS}%2B+Years/" README.md
 
           echo "Updated to ${YEARS_PLUS} years"
-          cat README.md | grep "Microsoft ecosystem"
+          grep "Microsoft ecosystem" README.md
+          grep "Consultant" README.md
 
       - name: Commit if changed
         run: |
