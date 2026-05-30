@@ -32,22 +32,21 @@ Deeply embedded in the Microsoft 365 ecosystem for 12+ years. I spend my time au
 
 ---
 
-### 🛠️ Automation and Tooling
+### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/PowerShell-0078d4?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graph_API-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_CLI-0078d4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=powershell,azure,github,git,vscode&theme=dark" />
+  </a>
 </p>
 
-### ☁️ Platforms
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft_365-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Entra_ID-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Exchange_Online-0078d4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" />
   <img src="https://img.shields.io/badge/Intune-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Defender-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Graph_API-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
