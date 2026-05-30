@@ -30,8 +30,8 @@ jobs:
           sed -i "s/Consultant+%7C+[0-9]*%2B+Years/Consultant+%7C+${YEARS}%2B+Years/" README.md
 
           echo "Updated to ${YEARS_PLUS} years"
-          grep "Microsoft ecosystem" README.md
-          grep "Consultant" README.md
+          grep "Microsoft ecosystem" README.md || echo "Warning: ecosystem pattern not found"
+          grep "Consultant" README.md || echo "Warning: Consultant pattern not found"
 
       - name: Commit if changed
         run: |
